@@ -15,4 +15,5 @@ spec:
   syncPoicy:
     syncOptions:
     - createNamespaces=true
+    - ServerSideApply=true
     automated: {}
