@@ -14,5 +14,5 @@ spec:
     targetRevision: 3.0.5
   syncPoicy:
     syncOptions:
-      createNamespaces=true
+    - createNamespaces=true
     automated: {}
